@@ -1,0 +1,28 @@
+name: game
+favicon: null
+layout_spectrum: 0.5558341236319393
+typography_spectrum: 0.6918833337258548
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7362017221748829
+  lightness: 0.7103933242615312
+  saturation: 0.5014833954628557
+  rhythmicContrast: 0.8816877300851047
+purpose: []
