@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[game]]></title>
+        <description><![CDATA[game]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 08:28:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Play Mirror's Edge™ Catalyst and follow Faith as she fights for freedom within the city of Glass. Available May 24, 2016 for Xbox One, PS4 and PC.</p><img src="https://media.mirrorsedge.com/content/www-mirrorsedge/en_US/_homepage/_jcr_content/ogimage.img.jpg"></article>]]></description>
+            <link>http://www.mirrorsedge.com/</link>
+            <guid isPermaLink="false">93443a8b-7fb7-4b50-b5ce-d812099690e4</guid>
+            <pubDate>Thu, 31 Mar 2016 08:27:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
