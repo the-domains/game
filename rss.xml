@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[game]]></title>
         <description><![CDATA[game]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/game/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 08:28:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 08:34:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/game/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Division]]></title>
+            <description><![CDATA[<article><h1>Division</h1><p>A devastating pandemic sweeps through New York City, and one by one, basic services fail. In only days, without food or water, society collapses into chaos. The Division, a classified unit of self-supported tactical agents, is activated. Leading seemingly ordinary lives among us, The Division agents are trained to operate independently of command, as all else fails.</p><img src="http://static9.cdn.ubi.com/resource/en-GB/game/tomclancy-thedivision/game/DZS_Divisiongame_com_1920_244804.jpg"></article>]]></description>
+            <link>http://tomclancy-thedivision.ubi.com/game/en-gb/home/</link>
+            <guid isPermaLink="false">566783ad-5fe8-4130-8509-1732d0ce8863</guid>
+            <pubDate>Thu, 31 Mar 2016 08:32:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test]]></title>
-            <description><![CDATA[<article><h1>Test</h1><p>Play Mirror's Edge™ Catalyst and follow Faith as she fights for freedom within the city of Glass. Available May 24, 2016 for Xbox One, PS4 and PC.</p><img src="https://media.mirrorsedge.com/content/www-mirrorsedge/en_US/_homepage/_jcr_content/ogimage.img.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Test</h1><p>Play Mirror's Edge™ Catalyst and follow Faith as she fights for freedom within the city of Glass. Available May 24, 2016 for Xbox One, PS4 and PC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab30dd2d95cd0cc0743bf104d6e0b44d4903aa98.jpg"></article>]]></description>
             <link>http://www.mirrorsedge.com/</link>
             <guid isPermaLink="false">93443a8b-7fb7-4b50-b5ce-d812099690e4</guid>
             <pubDate>Thu, 31 Mar 2016 08:27:24 GMT</pubDate>
